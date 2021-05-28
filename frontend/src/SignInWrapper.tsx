@@ -12,7 +12,6 @@ let done = false
 
 const CLIENT_ID =
   "4165028778-f4urno332m7tg92t5c9s92ao0hmcr9qn.apps.googleusercontent.com"
-const API_KEY = "AIzaSyARkBYF-I5GpOMFxgZTH0cac4gqItJBEdc"
 
 // Array of API discovery doc URLs for APIs used by the quickstart
 const DISCOVERY_DOCS = [
@@ -30,7 +29,7 @@ const initClient = () => {
   done = true
   gapi.client
     .init({
-      apiKey: API_KEY,
+      apiKey: process.env.REACT_APP_GAPI_KEY,
       clientId: CLIENT_ID,
       discoveryDocs: DISCOVERY_DOCS,
       scope: SCOPES

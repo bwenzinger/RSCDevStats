@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Websites\\create_react_app\\RSCApi\\RSCWebApi\\RSCWebApi\\RSCWebApi.csproj": {}
+    "D:\\Dev\\Websites\\create_react_app\\RSCDev\\RSCApi\\RSCWebApi\\RSCWebApi.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Websites\\create_react_app\\RSCApi\\RSCWebApi\\RSCWebApi\\RSCWebApi.csproj": {
+    "D:\\Dev\\Websites\\create_react_app\\RSCDev\\RSCApi\\RSCWebApi\\RSCWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Websites\\create_react_app\\RSCApi\\RSCWebApi\\RSCWebApi\\RSCWebApi.csproj",
+        "projectUniqueName": "D:\\Dev\\Websites\\create_react_app\\RSCDev\\RSCApi\\RSCWebApi\\RSCWebApi.csproj",
         "projectName": "RSCWebApi",
-        "projectPath": "D:\\Dev\\Websites\\create_react_app\\RSCApi\\RSCWebApi\\RSCWebApi\\RSCWebApi.csproj",
+        "projectPath": "D:\\Dev\\Websites\\create_react_app\\RSCDev\\RSCApi\\RSCWebApi\\RSCWebApi.csproj",
         "packagesPath": "C:\\Users\\bwenzinger\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Websites\\create_react_app\\RSCApi\\RSCWebApi\\RSCWebApi\\obj\\",
+        "outputPath": "D:\\Dev\\Websites\\create_react_app\\RSCDev\\RSCApi\\RSCWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

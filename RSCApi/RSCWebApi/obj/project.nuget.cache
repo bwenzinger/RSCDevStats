@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CEWHeukT1wC6aKERMIqTXCweOshAq53b0xRa8lIgnWOdCPcxff4XEeWvbC4O6H1SKyioePTHNNtKwur+IDDdtQ==",
+  "dgSpecHash": "xc+ISDR7a85HEStmS4etI4O/M1joSX3uqnqq4LrRL3yxCDVibINFWJaibaj1P9HtlYWn8EBKWpgpWBbuRRxKzA==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Websites\\create_react_app\\RSCApi\\RSCWebApi\\RSCWebApi\\RSCWebApi.csproj",
+  "projectFilePath": "D:\\Dev\\Websites\\create_react_app\\RSCDev\\RSCApi\\RSCWebApi\\RSCWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bwenzinger\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\bwenzinger\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
